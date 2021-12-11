@@ -2,7 +2,6 @@ package authority
 
 import (
 	"errors"
-
 	"gorm.io/gorm"
 )
 

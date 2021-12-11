@@ -1,10 +1,10 @@
 # Authority
 
-![Build Status](https://github.com/harranali/authority/actions/workflows/build-main.yml/badge.svg)
-![Test Status](https://github.com/harranali/authority/actions/workflows/test-main.yml/badge.svg)
-[![Go Report Card](https://goreportcard.com/badge/github.com/harranali/authority)](https://goreportcard.com/report/github.com/harranali/authority)
-[![GoDoc](https://godoc.org/github.com/harranali/authority?status.svg)](https://godoc.org/github.com/harranali/authority)
-[![Coverage Status](https://coveralls.io/repos/github/harranali/authority/badge.svg?branch=main)](https://coveralls.io/github/harranali/authority?branch=main&cache=false)
+![Build Status](https://github.com/hzakher/authority/actions/workflows/build-main.yml/badge.svg)
+![Test Status](https://github.com/hzakher/authority/actions/workflows/test-main.yml/badge.svg)
+[![Go Report Card](https://goreportcard.com/badge/github.com/hzakher/authority)](https://goreportcard.com/report/github.com/hzakher/authority)
+[![GoDoc](https://godoc.org/github.com/hzakher/authority?status.svg)](https://godoc.org/github.com/hzakher/authority)
+[![Coverage Status](https://coveralls.io/repos/github/hzakher/authority/badge.svg?branch=main)](https://coveralls.io/github/hzakher/authority?branch=main&cache=false)
 
 Role Based Access Control (RBAC) Go package with database persistence 
 # Features
@@ -27,7 +27,7 @@ Role Based Access Control (RBAC) Go package with database persistence
 # Install
 First get `authority`
 ```bash
-go get github.com/harranali/authority
+go get github.com/hzakher/authority
 ```
 Next get the database driver for `gorm` that you will be using 
 ```bash
